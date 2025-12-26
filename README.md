@@ -1,4 +1,13 @@
-# Electronics-Market-Revenue-Dashboard---Power-BI
+<h1>
+  <img
+    src="https://github.com/user-attachments/assets/5d4d68bf-f78c-4b16-bb92-11b74c901c2c"
+    width="40"
+    alt="Logo"
+    style="vertical-align: middle;"
+  />
+  Electronics Market Revenue Dashboard – Power BI
+</h1>
+
 <img width="915" height="545" alt="Market Data (Electronics) 2025-10-28 12_03_19 PM" src="https://github.com/user-attachments/assets/9d4db29b-323e-4446-8db9-cf122643f36f" />
 
 ## Table of Contents
