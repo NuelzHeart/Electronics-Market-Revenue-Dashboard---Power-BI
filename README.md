@@ -1,10 +1,25 @@
 # Electronics-Market-Revenue-Dashboard---Power-BI
 <img width="915" height="545" alt="Market Data (Electronics) 2025-10-28 12_03_19 PM" src="https://github.com/user-attachments/assets/9d4db29b-323e-4446-8db9-cf122643f36f" />
 
+## Table of Contents
+- [Description](#-description)
+- [Project Objectives](#-project-objectives)
+- [Guided Questions for Visualization](#-guided-questions-for-visualization)
+- [Tools and Technologies](#-tools-and-technologies)
+- [Key Business Value](#-key-business-value)
+- [Electronics Market Dataset](#-electronics-market-dataset)
+- [Electronic Data Dashboard](#-electronic-data-dashboard)
+- [Key Performance Indicators](#-key-performance-indicators)
+- [Key Insights](#-key-insights)
+- [Recommendations](#-recommendations)
+- [Project Conclusion](#-project-conclusion)
+- [Contact Me](#-contact-me)
+
 ## 📖 Description
 This project aims to develop an interactive Power BI dashboard for a multinational electronics firm, enabling the analysis of revenue performance across sales representatives, regions, and product categories. It delivers clear insights by quarter and customer demographics to support informed, data-driven business decisions.
 
 ## 🎯 Project Objectives
+
 ### 1. Problem Definition
 The analysis aims to answer key business questions such as:
 - Which products and sales representatives generate the most revenue?
@@ -12,7 +27,7 @@ The analysis aims to answer key business questions such as:
 - Which regions or stores perform best and which underperform?
 - How does revenue vary across quarters and months?
 
-### 2. Data Cleaning & Transformation
+### 2. Data Cleaning and Transformation
 To ensure accurate analysis, the following steps were performed:
 - Merged first and last names into a single Full Name field
 - Standardized and formatted date fields
@@ -49,7 +64,7 @@ The dashboard is designed to answer:
 - How does revenue change by quarter?
 - How does performance differ by rank level or store ID?
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tools and Technologies
 - Power BI for Data Visualizations
 - Excel Dataset
 - Power Query for data cleaning and transformation
