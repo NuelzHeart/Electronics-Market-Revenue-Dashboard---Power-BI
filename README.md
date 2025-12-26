@@ -65,6 +65,7 @@ This dashboard helps stakeholders:
 ## 🗂 Electronics Market Dataset
 - <a href="https://github.com/NuelzHeart/Electronics-Market-Revenue-Dashboard---Power-BI/blob/main/Electronic%20Market%20dataset.xlsx">Dataset</a>
 ## 📊 Electronic Data Dashboard
+-  <a href="https://github.com/NuelzHeart/Electronics-Market-Revenue-Dashboard---Power-BI/blob/main/Electronics%20Data%20Dashboard.png">View Dashboard</a>
 
 
 ## 📊 Key Performance Indicators
