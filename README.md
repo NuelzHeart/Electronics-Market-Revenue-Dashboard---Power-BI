@@ -63,7 +63,9 @@ This dashboard helps stakeholders:
 - Make informed, data-backed strategic decisions
 
 ## 🗂 Electronics Market Dataset
+- <a href="https://github.com/NuelzHeart/Electronics-Market-Revenue-Dashboard---Power-BI/blob/main/Electronic%20Market%20dataset.xlsx">Dataset</a>
 ## 📊 Electronic Data Dashboard
+
 
 ## 📊 Key Performance Indicators
 | KPI | Value |
